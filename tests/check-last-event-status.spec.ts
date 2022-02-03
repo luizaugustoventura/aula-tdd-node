@@ -2,7 +2,7 @@ class CheckLastEventStatus {
     constructor (private readonly loadLastEventRepository: LoadLastEventRepository) {}
 
     async perform (groupId: string): Promise<void> {
-
+        this.loadLastEventRepository.groupId = groupId
     }
 }
 
