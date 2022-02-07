@@ -8,6 +8,7 @@
 - Test Code in Production (nome não-oficial)
 - Duplicate Code (nome não-oficial)
 - Shotgun Surgery
+- Long Parameter List
 
 # Design Patterns/Principles/Conventions
 - You Ain't Gonna Need It (YAGNI)
@@ -20,5 +21,6 @@
 - Test Doubles (Mock, Stub, Spy)
 - Small Commits
 - System Under Test (SUT)
-- Factory
+- Factory Pattern
 - Strategy Pattern
+- Command Pattern
