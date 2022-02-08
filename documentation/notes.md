@@ -9,6 +9,7 @@
 - Duplicate Code (nome não-oficial)
 - Shotgun Surgery
 - Long Parameter List
+- Primitive Obsession
 
 # Design Patterns/Principles/Conventions
 - You Ain't Gonna Need It (YAGNI)
